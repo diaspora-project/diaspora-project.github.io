@@ -7,19 +7,19 @@ Our goal in the Diaspora project is to develop new methods for building next-gen
 > Addressing the resilience needs of a broad set of DOE applications requires methods for gaining knowledge of resources and applications and for translating that knowledge into action. 
 These two needs can be met by establishing a **unifying event fabric** that extends across sites, facilities, and computations to provide timely, reliable, and accurate information about data, application, and resource status, and by developing **resilience services** that leverage information provided by this fabric to meet broad classes of resilience needs.
 
-Thus, as outlined in the figure, we are working to create a **hierarchical event fabric** (encompassing, via **Mofka**, HPC); to develop **resilience services** that build on event fabric capabilities to provide, e.g., resilienr distributed states; and to evaluate event fabric and resilience services capabilities in the context of **scientific applications** such as those listed above. 
+Thus, as outlined in the figure, we are working to create a **hierarchical event fabric** (encompassing, via **Mofka**, HPC); to develop **resilience services** that build on event fabric capabilities to provide, e.g., resilient compute pools and streaming; and to evaluate these new capabilities in **scientific applications** such as those listed above. 
 
 <p align="center" width="100%">
     <img width="50%" src="Diaspora.png">
 </p>
 
 Project participants include:
-* At Texas Tech, Alessandra Corsi
-* At SLAC, Ryan Coffee and Jana Thayer
-* At ORNL, Nagi Rao and Anees Najjar
+* At [Texas Tech](https://www.ttu.edu), [Alessandra Corsi](https://www.depts.ttu.edu/phas/People/Faculty/bio_corsi/bio_corsi.php)
+* At [SLAC](https://slac.stanford.edu), Ryan Coffee and Jana Thayer
+* At [ORNL](https://www.ornl.gov), Nagi Rao and Anees Najjar
 * At [Argonne](https://www.anl.gov): Ian Foster, Bogdan Nicolae, Kyle Chard, Ryan Chard, Matthieu Dorier, Eliu Huerta, Rob Ross, Tekin Bicer, Justin Wozniak, Raj Kettimuthu, Phil Carns.
 
-
+We are looking for people who want to help us build out these solutions: postdocs, students, visiting scientists, collaborators, and others. If you think that you might be interested, please get in touch. 
 
 
 ---
