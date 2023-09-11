@@ -1,4 +1,6 @@
-# Diaspora: Resilience-enabling services for science from HPC to edge
+# Diaspora project
+
+## Resilience-enabling services for science from HPC to edge
 
 An **AI-guided simulation campaign** that engages computers at multiple sites to evaluate many small molecules for use against a new pathogen. A **real-time data analysis pipeline** that processes data from a scientific instrument so as to enable experimental steering. A **multi-messenger astronomy application** that integrates data from observational and simulation sites to detect and respond rapidly to rare astronomical events. Each of these mission-critical applications depends on distributed computation for its success and is thus easily subject to disruptions due to  failures, disruptions, and other anomalies.
 
