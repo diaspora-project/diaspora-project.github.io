@@ -24,6 +24,6 @@ We are looking for people who want to help us build out these solutions: postdoc
 
 ---
 
-Diaspora involves researchers at Argonne National Laboratory, Oak Ridge National Laboratory, SLAC, and Texas Tech University, and is supported by a grant from the US Department of Energy's [Office of Advanced Scientific Computing Research](https://science.osti.gov/ascr). Access at [diaspora-project.github.io](https://diaspora-project.github.io). For more information contact [Ian Foster](mailto:foster@anl.gov). 
+Diaspora involves researchers at Argonne National Laboratory, Oak Ridge National Laboratory, SLAC, and Texas Tech University, and is supported by a grant from the US Department of Energy's [Office of Advanced Scientific Computing Research](https://science.osti.gov/ascr), under program manager [Margaret Lentz](https://science.osti.gov/ascr/About/Staff). Access at [diaspora-project.github.io](https://diaspora-project.github.io). For more information contact [Ian Foster](mailto:foster@anl.gov). 
 
 
