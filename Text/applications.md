@@ -20,7 +20,7 @@ large GPU clusters at ALCF and NVIDIA and on interconnected Cerebras CS-2 system
 The following figure, from [Ward et al., 2003](https://arxiv.org/abs/2303.08803), illustrates an AI-guided simulation campaign that combines AI training and inference on GPUs that steer simulations on CPUs. 
 
 <p align="center" width="100%">
-    <img width="50%" src="Images/ColmenaHetero.png">
+    <img width="50%" src="../Images/ColmenaHetero.png">
 </p>
 
 ## Time-sensitive applications
@@ -39,7 +39,7 @@ E.g.:
 The following figure (see e.g. [Liu et al., 2022](https://arxiv.org/pdf/2105.13967.pdf)) shows data center HPC being used used to train ML models for fast data filtering at a synchrotron instrument.
 
 <p align="center" width="100%">
-    <img width="70%" src="Images/dcai_flow.png">
+    <img width="70%" src="../Images/dcai_flow.png">
 </p>
 
 ## Distributed data integration applications 
@@ -58,6 +58,6 @@ The following figure illustrates how to accelerate discovery from multi-messenge
 we apply federated learning over messengers to produce a foundation model.
 
 <p align="center" width="100%">
-    <img width="70%" src="Images/fed_len_MMA_ian.png">
+    <img width="70%" src="../Images/fed_len_MMA_ian.png">
 </p>
 
