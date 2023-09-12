@@ -10,7 +10,7 @@ These two needs can be met by establishing a **unifying event fabric** that exte
 Thus, as outlined in the figure, we are working to create a **hierarchical event fabric** (encompassing, via **Mofka**, HPC); to develop **resilience services** that build on event fabric capabilities to provide, e.g., resilient compute pools and streaming; and to evaluate these new capabilities in **scientific applications** such as those listed above. 
 
 <p align="center" width="100%">
-    <img width="50%" src="Diaspora.png">
+    <img width="60%" src="Diaspora.png">
 </p>
 
 Project participants include:
