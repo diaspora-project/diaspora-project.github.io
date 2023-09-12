@@ -19,7 +19,7 @@ Project participants include:
 * At [ORNL](https://www.ornl.gov), Nagi Rao and Anees Najjar
 * At [Argonne](https://www.anl.gov): Ian Foster, Tekin Bicer, Phil Carns, Kyle Chard, Ryan Chard, Matthieu Dorier, Eliu Huerta, Raj Kettimuthu, Bogdan Nicolae, Rob Ross, Justin Wozniak.
 
-We are looking for people who want to help us build out these solutions: postdocs, students, visiting scientists, collaborators, and others. If you think that you might be interested, please get in touch. 
+We are looking for people who want to help us build out these solutions: postdocs, students, visiting scientists, collaborators, and others. If you think that you might be interested, please get in touch with [Ian Foster](mailto:foster@anl.gov). We look forward to hearing from you! 
 
 
 ---
