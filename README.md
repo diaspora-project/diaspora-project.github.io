@@ -21,6 +21,7 @@ Project participants include:
 
 We are looking for people who want to help us build out these solutions: postdocs, students, visiting scientists, collaborators, and others. If you think that you might be interested, please get in touch with [Ian Foster](mailto:foster@anl.gov). We look forward to hearing from you! 
 
+And just for fun, a [description of the project suitable for a kindergartener](Text/kindergartener.md).
 
 ---
 
