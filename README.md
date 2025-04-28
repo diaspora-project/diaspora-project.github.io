@@ -16,7 +16,8 @@ Thus, as outlined in the figure, we are working to create a **hierarchical event
 Some recent project publications:
 
 * [Employing artificial intelligence to steer exascale workflows with Colmena](https://journals.sagepub.com/doi/pdf/10.1177/10943420241288242), L. Ward et al., 2024: Describes the Colmena framework that we use in developing AI-guided simulation campaign applications.
-* [Octopus: Experiences with a hybrid event-driven architecture for distributed scientific computing](https://arxiv.org/pdf/2407.11432), H. Pan et al., 2024: Introduces the Octopus framework that we are developing for scalable distributed event delivery. 
+* [Octopus: Experiences with a hybrid event-driven architecture for distributed scientific computing](https://arxiv.org/pdf/2407.11432), H. Pan et al., 2024: Introduces the Octopus framework that we are developing for scalable distributed event delivery.
+* [Diaspora: Resilience-Enabling Services for Real-Time Distributed Workflows](https://ieeexplore.ieee.org/abstract/document/10678669), B. Nicolae et al., 2024: Project overview paper.
 
 Project participants include:
 * At [Texas Tech](https://www.ttu.edu), [Alessandra Corsi](https://www.depts.ttu.edu/phas/People/Faculty/bio_corsi/bio_corsi.php)
