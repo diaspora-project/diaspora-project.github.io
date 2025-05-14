@@ -20,7 +20,7 @@ Some recent project publications:
 * [Diaspora: Resilience-Enabling Services for Real-Time Distributed Workflows](https://ieeexplore.ieee.org/abstract/document/10678669), B. Nicolae et al., 2024: Project overview paper.
 
 Project participants include:
-* At [Texas Tech](https://www.ttu.edu), [Alessandra Corsi](https://www.depts.ttu.edu/phas/People/Faculty/bio_corsi/bio_corsi.php)
+* At [JHU](https://www.jhu.edu), [Alessandra Corsi](https://www.depts.ttu.edu/phas/People/Faculty/bio_corsi/bio_corsi.php)
 * At [SLAC](https://slac.stanford.edu), Ryan Coffee and Jana Thayer
 * At [ORNL](https://www.ornl.gov), Nagi Rao and Anees Najjar
 * At [Argonne](https://www.anl.gov): Ian Foster, Tekin Bicer, Phil Carns, Kyle Chard, Ryan Chard, Matthieu Dorier, Eliu Huerta, Raj Kettimuthu, Bogdan Nicolae, Rob Ross, Justin Wozniak.
