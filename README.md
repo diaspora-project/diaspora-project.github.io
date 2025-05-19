@@ -22,6 +22,8 @@ Some recent project publications:
 * [MOFA: Discovering Materials for Carbon Capture with a GenAI- and Simulation-Based Workflow](https://arxiv.org/abs/2501.10651), X. Yan et al., 2025: A real-time workflow combining generative AI and HPC simulations to discover novel metal-organic frameworks (MOFs) for carbon capture.
 * [D-Rex: Heterogeneity-Aware Reliability Framework and Adaptive Algorithms for Distributed Storage](tbd), M. Gonthier et al., 2025: A resilient solution for chunking and placing erasure-coded data on heterogeneous storage nodes.
 * [WRATH: Workload Resilience Across Task Hierarchies in Task-based Parallel Programming Frameworks](https://arxiv.org/abs/2503.12752), S. Zhou et al., 2025: A resilience module that categorizes and handles failures in task-based parallel programming frameworks.
+* [Resilient Execution of Distributed X-ray Image
+Analysis Workflows](https://www.frontiersin.org/journals/high-performance-computing/articles/10.3389/fhpcp.2025.1550855/abstract), H Nguyen et al., 2025: Resilient solutions for distributed X-ray image analysis workflows.
 
 Project participants include:
 * At [JHU](https://www.jhu.edu), [Alessandra Corsi](https://www.depts.ttu.edu/phas/People/Faculty/bio_corsi/bio_corsi.php)
