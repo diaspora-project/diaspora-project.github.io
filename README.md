@@ -19,6 +19,8 @@ Some recent project publications:
 * [Octopus: Experiences with a hybrid event-driven architecture for distributed scientific computing](https://arxiv.org/pdf/2407.11432), H. Pan et al., 2024: Introduces the Octopus framework that we are developing for scalable distributed event delivery.
 * [Diaspora: Resilience-Enabling Services for Real-Time Distributed Workflows](https://ieeexplore.ieee.org/abstract/document/10678669), B. Nicolae et al., 2024: Project overview paper.
 * [Efficient distributed continual learning for steering experiments in real-time](https://www.sciencedirect.com/science/article/pii/S0167739X24003820), T. Bouvier et al., 2025. Rehearsal-based continual learning for scientific applications.
+* [MOFA: Discovering Materials for Carbon Capture with a GenAI- and Simulation-Based Workflow](https://arxiv.org/abs/2501.10651), X. Yan et al., 2025: arXiv manuscript.
+* [D-Rex: Heterogeneity-Aware Reliability Framework and Adaptive Algorithms for Distributed Storage](tbd), M. Gonthier et al., 2025: A resilient solution for chunking and placing erasure-coded data on heterogeneous storage nodes.
 
 Project participants include:
 * At [JHU](https://www.jhu.edu), [Alessandra Corsi](https://www.depts.ttu.edu/phas/People/Faculty/bio_corsi/bio_corsi.php)
