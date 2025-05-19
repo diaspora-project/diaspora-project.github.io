@@ -17,7 +17,7 @@ Some recent project publications:
 
 * [Employing artificial intelligence to steer exascale workflows with Colmena](https://journals.sagepub.com/doi/pdf/10.1177/10943420241288242), L. Ward et al., 2024: Describes the Colmena framework that we use in developing AI-guided simulation campaign applications.
 * [Octopus: Experiences with a hybrid event-driven architecture for distributed scientific computing](https://arxiv.org/pdf/2407.11432), H. Pan et al., 2024: Introduces the Octopus framework that we are developing for scalable distributed event delivery.
-* [Tools for predicting and responding to anomalies in experiment data streams](https://indico.esrf.fr/event/114/sessions/169/#20240926)
+* [Tools for predicting and responding to anomalies in experiment data streams](https://indico.esrf.fr/event/114/contributions/779)
 J. M. Wozniak et al., NOBUGS at European Synchrotron Radiation Facility, 2024: Presentation about initial Diaspora work in managing reliable data streams for scientific experiments.
 * [Diaspora: Resilience-Enabling Services for Real-Time Distributed Workflows](https://ieeexplore.ieee.org/abstract/document/10678669), B. Nicolae et al., 2024: Project overview paper.
 * [Efficient distributed continual learning for steering experiments in real-time](https://www.sciencedirect.com/science/article/pii/S0167739X24003820), T. Bouvier et al., 2025. Rehearsal-based continual learning for scientific applications.
