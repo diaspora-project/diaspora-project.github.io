@@ -15,15 +15,15 @@ Thus, as outlined in the figure, we are working to create a **hierarchical event
 
 Some recent project publications:
 
-* [Employing artificial intelligence to steer exascale workflows with Colmena](https://journals.sagepub.com/doi/pdf/10.1177/10943420241288242), L. Ward et al., 2024: Describes the Colmena framework that we use in developing AI-guided simulation campaign applications.
-* [Octopus: Experiences with a hybrid event-driven architecture for distributed scientific computing](https://arxiv.org/pdf/2407.11432), H. Pan et al., 2024: Introduces the Octopus framework that we are developing for scalable distributed event delivery.
-* [Diaspora: Resilience-Enabling Services for Real-Time Distributed Workflows](https://ieeexplore.ieee.org/abstract/document/10678669), B. Nicolae et al., 2024: Project overview paper.
-* [Efficient distributed continual learning for steering experiments in real-time](https://www.sciencedirect.com/science/article/pii/S0167739X24003820), T. Bouvier et al., 2025. Rehearsal-based continual learning for scientific applications.
-* [MOFA: Discovering Materials for Carbon Capture with a GenAI- and Simulation-Based Workflow](https://arxiv.org/abs/2501.10651), X. Yan et al., 2025: A real-time workflow combining generative AI and HPC simulations to discover novel metal-organic frameworks (MOFs) for carbon capture.
-* [D-Rex: Heterogeneity-Aware Reliability Framework and Adaptive Algorithms for Distributed Storage](tbd), M. Gonthier et al., 2025: A resilient solution for chunking and placing erasure-coded data on heterogeneous storage nodes.
-* [WRATH: Workload Resilience Across Task Hierarchies in Task-based Parallel Programming Frameworks](https://arxiv.org/abs/2503.12752), S. Zhou et al., 2025: A resilience module that categorizes and handles failures in task-based parallel programming frameworks.
+* [Employing artificial intelligence to steer exascale workflows with Colmena](https://journals.sagepub.com/doi/pdf/10.1177/10943420241288242), L. Ward et al., The International Journal of High Performance Computing Applications, 2024: Describes the Colmena framework that we use in developing AI-guided simulation campaign applications.
+* [Octopus: Experiences with a hybrid event-driven architecture for distributed scientific computing](https://arxiv.org/pdf/2407.11432), H. Pan et al., SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis., 2024: Introduces the Octopus framework that we are developing for scalable distributed event delivery.
+* [Diaspora: Resilience-Enabling Services for Real-Time Distributed Workflows](https://ieeexplore.ieee.org/abstract/document/10678669), B. Nicolae et al., IEEE 20th International Conference on e-Science (e-Science), 2024: Project overview paper.
+* [Efficient distributed continual learning for steering experiments in real-time](https://www.sciencedirect.com/science/article/pii/S0167739X24003820), T. Bouvier et al., Future Generation Computer Systems, 2025. Rehearsal-based continual learning for scientific applications.
+* [MOFA: Discovering Materials for Carbon Capture with a GenAI- and Simulation-Based Workflow](https://arxiv.org/abs/2501.10651), X. Yan et al., arXiv, 2025: A real-time workflow combining generative AI and HPC simulations to discover novel metal-organic frameworks (MOFs) for carbon capture.
+* [D-Rex: Heterogeneity-Aware Reliability Framework and Adaptive Algorithms for Distributed Storage](tbd), M. Gonthier et al., ACM International Conference on Supercomputing (ICS), 2025: A resilient solution for chunking and placing erasure-coded data on heterogeneous storage nodes.
+* [WRATH: Workload Resilience Across Task Hierarchies in Task-based Parallel Programming Frameworks](https://arxiv.org/abs/2503.12752), S. Zhou et al., IEEE International Symposium on Cluster, Cloud, and Internet Computing (CCGrid) 2025: A resilience module that categorizes and handles failures in task-based parallel programming frameworks.
 * [Resilient Execution of Distributed X-ray Image
-Analysis Workflows](https://www.frontiersin.org/journals/high-performance-computing/articles/10.3389/fhpcp.2025.1550855/abstract), H Nguyen et al., 2025: Resilient solutions for distributed X-ray image analysis workflows.
+Analysis Workflows](https://www.frontiersin.org/journals/high-performance-computing/articles/10.3389/fhpcp.2025.1550855/abstract), H Nguyen et al., Frontiers in High Performance Computing, 2025: Resilient solutions for distributed X-ray image analysis workflows.
 
 Project participants include:
 * At [JHU](https://www.jhu.edu), [Alessandra Corsi](https://www.depts.ttu.edu/phas/People/Faculty/bio_corsi/bio_corsi.php)
